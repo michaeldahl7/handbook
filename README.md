@@ -1,4 +1,4 @@
-# Handbook POC
+# 📘 Handbook POC
 
 The Resolve handbook describes how we (Resolve teammates) work.
 
